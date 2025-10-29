@@ -1,1 +1,5 @@
-https://github.com/islaburslem/bdl-course/blob/master/Coursework/minion.png
+{
+  "name": "Minion NFT",
+  "description": "NFT representing Minion",
+  "image": "https://avatars.githubusercontent.com/u/20790332?v=4" // ?? 
+}
